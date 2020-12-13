@@ -1,0 +1,4 @@
+module SNIURLProtocol [system] {
+  header "SNIURLProtocol.h"
+  export *
+}
